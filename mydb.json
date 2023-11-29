@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "Name": "tfghgfghfgh",
+      "Age": "23",
+      "Email": "fdgd@fgg.hjhgj",
+      "Date": "2023-03-01",
+      "Gender": "Male",
+      "CheckBox": [
+        "Ludo",
+        "Chess"
+      ],
+      "Password": "fddfdssdsdsfdh",
+      "Contact": "34444449",
+      "Stream": "Medical",
+      "id": 1
+    },
+    {
+      "Name": "Wamp sharma",
+      "Age": "19",
+      "Email": "wamp@123.cv",
+      "Date": "2023-02-23",
+      "Gender": "Male",
+      "CheckBox": [
+        "Ludo",
+        "Chess"
+      ],
+      "Password": "6666666666",
+      "Contact": "8888888888",
+      "Stream": "Medical",
+      "id": 2
+    }
+  ]
+}

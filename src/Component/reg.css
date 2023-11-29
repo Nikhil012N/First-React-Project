@@ -1,0 +1,166 @@
+#headerul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: fixed;
+  overflow: hidden;
+  background-color: ghostwhite;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.catgorytable {
+  border: none;
+  font-size: 2.4vh;
+  bottom: 0px;
+  width: 100%;
+ justify-items: center;
+ align-items: center;
+  /* margin-top: auto; */
+ 
+
+  text-transform: uppercase;
+}
+.customlink:hover:not(.active) {
+  color: whitesmoke;
+  background: linear-gradient(to right, #833ab4, #fd1d1d, #fcb045);
+
+}
+
+li {
+  float: left;
+}
+
+h1 {
+  font-family: 'Tangerine', serif;
+  font-size: 4.8vh;
+  text-align: center;
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+li a {
+  display: block;
+  color: black;
+  padding: 10px 16px;
+  margin: 0;
+  text-transform: uppercase;
+  text-decoration: none;
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+li a:hover:not(.active) {
+  color: whitesmoke;
+  background: linear-gradient(to right, #833ab4, #fd1d1d, #fcb045);
+}
+
+
+a {
+  text-decoration: none;
+  color: #FB4D46;
+
+}
+
+footer {
+  position: fixed;
+  bottom: 1px;
+  width: 100%;
+  text-align: center;
+  background: linear-gradient(to right, #833ab4, #fd1d1d, #fcb045);
+} 
+
+ul.paginate {
+  padding: 0;
+  list-style-type: none;
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.disabled {
+  cursor: not-allowed;
+  display: none;
+}
+
+.pagingtbody {
+  background: linear-gradient(to right, #a1ffce, #faffd1);
+  padding: 5px 8px;
+  margin: 10px;
+  border-collapse: collapse;
+  cursor: pointer;
+  text-decoration: none;
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Errormsg {
+  text-align: center;
+  font-size: 1.6vw;
+
+  position:fixed;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 16%;
+  color: rgb(238, 103, 85);
+}
+
+.Errorpara {
+  color: pink;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 7%;
+  text-align: center;
+  position: inherit;
+  font-size: 6.4vw;
+}
+
+.pagingthead{
+  background-color: white;
+  border-collapse: collapse;
+  cursor: pointer;
+  text-decoration: none;
+  color: #00c9ff;
+  border: 6px solid white;
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+input,
+select,
+option,
+button {
+  display: flex;
+  padding: 5px 9px;
+  margin: 4px;
+  cursor: pointer;
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+label{
+  color: #00c9ff;
+  padding: 5px 8px;
+  margin: 10px;
+  border-collapse: collapse;
+  border: none;
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+span{
+  color: red;
+  text-align: center;
+}
+
+
