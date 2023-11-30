@@ -37,7 +37,6 @@
     "jspdf": "^2.5.1",
     "jspdf-autotable": "^3.5.28",
     "md5": "^2.3.0",
-    "puppeteer": "^19.7.3",
     "react": "^18.2.0",
     "react-chartjs-2": "^5.2.0",
     "react-csv": "^2.2.2",
